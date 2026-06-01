@@ -10,6 +10,7 @@ Identity is the control plane. In cloud environments, most major incidents event
 
 ## Notes To Develop
 
+- [[aws-centralized-root-access]]
 - Human access patterns: SSO, break-glass, MFA, and session duration
 - Workload identity: roles, service accounts, managed identities, and federation
 - Permission design: least privilege, privilege boundaries, and scoped automation
