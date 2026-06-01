@@ -1,10 +1,10 @@
 # Cloud Security Notes
 
-Quartz-powered GitHub Pages project site for cloud security engineering notes.
+Quartz-powered GitHub Pages site for cloud security engineering notes.
 
-Live site, once Pages is enabled and the first workflow completes:
+Live site:
 
-https://root-shells.github.io/quartz-blog/
+https://sec.metoniclabs.com/
 
 ## Local Development
 
@@ -17,4 +17,4 @@ Write notes in `content/`. The GitHub Actions workflow publishes the site from t
 
 ## Deploy
 
-Push changes to GitHub, then set repository Pages source to **GitHub Actions** in the GitHub repository settings.
+Push changes to GitHub. The repository is configured to deploy with GitHub Pages using GitHub Actions.

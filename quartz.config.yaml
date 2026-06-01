@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: root-shells.github.io/quartz-blog
+  baseUrl: sec.metoniclabs.com
   ignorePatterns:
     - private
     - templates
@@ -218,7 +218,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/Root-Shells/quartz-blog
+        GitHub: https://github.com/Root-Shells/cloudsec-notes
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
