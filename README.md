@@ -1,17 +1,20 @@
-# Quartz v5
+# Cloud Security Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Quartz-powered GitHub Pages project site for cloud security engineering notes.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Live site, once Pages is enabled and the first workflow completes:
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+https://root-shells.github.io/quartz-blog/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Local Development
 
-## Sponsors
+```bash
+npm install
+npx quartz build --serve
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Write notes in `content/`. The GitHub Actions workflow publishes the site from the `v5` branch.
+
+## Deploy
+
+Push changes to GitHub, then set repository Pages source to **GitHub Actions** in the GitHub repository settings.
