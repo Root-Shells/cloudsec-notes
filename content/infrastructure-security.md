@@ -11,6 +11,7 @@ Infrastructure security works best when the paved road is genuinely easier to us
 
 ## Areas To Cover
 
+- [[aws-ecr-security]]
 - Network exposure and private connectivity
 - Encryption defaults and key management
 - Logging baselines and retention

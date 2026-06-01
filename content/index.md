@@ -10,6 +10,7 @@ Welcome. This site is a working notebook for cloud security engineering: the pat
 
 ## Start Here
 
+- [[aws-ecr-security]] - ECR secure baseline for container image supply chains
 - [[aws-centralized-root-access]] - first post: centralized root access for AWS Organizations
 - [[cloud-security-engineering]] - the main topic map for the site
 - [[identity-and-access]] - IAM, federation, least privilege, and guardrails
