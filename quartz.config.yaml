@@ -220,7 +220,7 @@ plugins:
       links:
         GitHub: https://github.com/Root-Shells/cloudsec-notes
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       title: Recent Notes
       limit: 5
