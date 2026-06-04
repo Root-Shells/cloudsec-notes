@@ -11,6 +11,7 @@ Cloud detections should be boring in the best way: clear trigger, clear owner, c
 
 ## Detection Ideas
 
+- [[domain-1-detection]]
 - Credential material used from new geography or ASN
 - CloudTrail, Activity Log, or audit logging disabled
 - New external trust relationship added to an identity provider

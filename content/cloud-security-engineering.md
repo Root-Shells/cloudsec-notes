@@ -10,6 +10,7 @@ Cloud security engineering sits between architecture, operations, detection, and
 
 ## Themes
 
+- [[domain-1-detection]]
 - [[aws-ecr-security]]
 - [[aws-centralized-root-access]]
 - [[identity-and-access]]
