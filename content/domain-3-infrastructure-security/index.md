@@ -1,5 +1,5 @@
 ---
-title: "Content Domain 3: Infrastructure Security"
+title: "Domain 3: Infrastructure Security"
 description: Notes on hardening cloud infrastructure and making secure defaults easy.
 tags:
   - infrastructure

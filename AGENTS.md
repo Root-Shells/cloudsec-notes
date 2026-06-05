@@ -51,7 +51,7 @@ Prefer concise, useful writing:
 Internal links use Quartz wiki-link syntax:
 
 ```md
-[[domain-1-detection/index|Content Domain 1: Detection]]
+[[domain-1-detection/index|Domain 1: Detection]]
 [[domain-3-infrastructure-security/aws-ecr-security|AWS Security - ECR Secure Baseline]]
 ```
 
@@ -165,6 +165,7 @@ curl --resolve sec.metoniclabs.com:443:185.199.108.153 \
   - `domain-4-identity-and-access-management`
   - `domain-5-data-protection`
   - `domain-6-security-foundations-and-governance`
+- `microservices-security` is also a top-level Explorer section.
 - Prefer durable reference pages over tiny isolated notes when covering certification domains or enterprise patterns.
 - Keep headings direct and technical.
 

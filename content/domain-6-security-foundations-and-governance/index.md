@@ -1,5 +1,5 @@
 ---
-title: "Content Domain 6: Security Foundations and Governance"
+title: "Domain 6: Security Foundations and Governance"
 description: A topic map for security foundations, governance, operating models, standards, and cloud security engineering practices.
 tags:
   - cloud-security
@@ -20,11 +20,12 @@ Security foundations and governance are the operating model underneath every tec
 
 ## Domain Map
 
-- [[domain-1-detection/index|Content Domain 1: Detection]]
-- [[domain-2-incident-response/index|Content Domain 2: Incident Response]]
-- [[domain-3-infrastructure-security/index|Content Domain 3: Infrastructure Security]]
-- [[domain-4-identity-and-access-management/index|Content Domain 4: Identity and Access Management]]
-- [[domain-5-data-protection/index|Content Domain 5: Data Protection]]
+- [[domain-1-detection/index|Domain 1: Detection]]
+- [[domain-2-incident-response/index|Domain 2: Incident Response]]
+- [[domain-3-infrastructure-security/index|Domain 3: Infrastructure Security]]
+- [[domain-4-identity-and-access-management/index|Domain 4: Identity and Access Management]]
+- [[domain-5-data-protection/index|Domain 5: Data Protection]]
+- [[microservices-security/index|Microservices Security]]
 
 ## Questions Worth Writing About
 

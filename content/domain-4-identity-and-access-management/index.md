@@ -1,5 +1,5 @@
 ---
-title: "Content Domain 4: Identity and Access Management"
+title: "Domain 4: Identity and Access Management"
 description: Notes on cloud IAM, federation, privilege boundaries, and access review.
 tags:
   - iam

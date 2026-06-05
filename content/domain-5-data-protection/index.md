@@ -1,5 +1,5 @@
 ---
-title: "Content Domain 5: Data Protection"
+title: "Domain 5: Data Protection"
 description: Notes on protecting data in AWS with classification, encryption, access controls, monitoring, and retention patterns.
 tags:
   - aws

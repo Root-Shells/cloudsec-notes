@@ -1,5 +1,5 @@
 ---
-title: "Content Domain 2: Incident Response"
+title: "Domain 2: Incident Response"
 description: Notes on cloud incident response, alert quality, investigation, containment, and recovery.
 tags:
   - detection
@@ -20,7 +20,7 @@ Incident response in AWS depends on prepared evidence, clear ownership, and reve
 
 ## Related Detection Work
 
-- [[domain-1-detection/index|Content Domain 1: Detection]]
+- [[domain-1-detection/index|Domain 1: Detection]]
 - Credential material used from new geography or ASN
 - CloudTrail, Activity Log, or audit logging disabled
 - New external trust relationship added to an identity provider
