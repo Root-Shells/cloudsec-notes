@@ -1,5 +1,5 @@
 ---
-title: Identity and Access
+title: "Content Domain 4: Identity and Access Management"
 description: Notes on cloud IAM, federation, privilege boundaries, and access review.
 tags:
   - iam
@@ -10,7 +10,7 @@ Identity is the control plane. In cloud environments, most major incidents event
 
 ## Notes To Develop
 
-- [[aws-centralized-root-access]]
+- [[domain-4-identity-and-access-management/aws-centralized-root-access|AWS Security - Centralize Root Access in Organizations]]
 - Human access patterns: SSO, break-glass, MFA, and session duration
 - Workload identity: roles, service accounts, managed identities, and federation
 - Permission design: least privilege, privilege boundaries, and scoped automation

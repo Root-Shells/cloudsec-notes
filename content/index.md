@@ -10,13 +10,12 @@ Welcome. This site is a working notebook for cloud security engineering: the pat
 
 ## Start Here
 
-- [[domain-1-detection]] - comprehensive reference for AWS monitoring, logging, alerting, and troubleshooting
-- [[aws-ecr-security]] - ECR secure baseline for container image supply chains
-- [[aws-centralized-root-access]] - first post: centralized root access for AWS Organizations
-- [[cloud-security-engineering]] - the main topic map for the site
-- [[identity-and-access]] - IAM, federation, least privilege, and guardrails
-- [[detections-and-response]] - cloud-native detection ideas and response playbooks
-- [[infrastructure-security]] - secure-by-default infrastructure and platform controls
+- [[domain-1-detection/index|Content Domain 1: Detection]]
+- [[domain-2-incident-response/index|Content Domain 2: Incident Response]]
+- [[domain-3-infrastructure-security/index|Content Domain 3: Infrastructure Security]]
+- [[domain-4-identity-and-access-management/index|Content Domain 4: Identity and Access Management]]
+- [[domain-5-data-protection/index|Content Domain 5: Data Protection]]
+- [[domain-6-security-foundations-and-governance/index|Content Domain 6: Security Foundations and Governance]]
 
 ## Writing Queue
 

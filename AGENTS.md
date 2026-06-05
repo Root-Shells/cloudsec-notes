@@ -51,32 +51,34 @@ Prefer concise, useful writing:
 Internal links use Quartz wiki-link syntax:
 
 ```md
-[[domain-1-detection]]
-[[aws-ecr-security]]
+[[domain-1-detection/index|Content Domain 1: Detection]]
+[[domain-3-infrastructure-security/aws-ecr-security|AWS Security - ECR Secure Baseline]]
 ```
 
 After adding a major page, link it from at least one topic map, usually:
 
 - `content/index.md`
-- `content/cloud-security-engineering.md`
-- `content/detections-and-response.md`
-- `content/identity-and-access.md`
-- `content/infrastructure-security.md`
+- `content/domain-1-detection/index.md`
+- `content/domain-2-incident-response/index.md`
+- `content/domain-3-infrastructure-security/index.md`
+- `content/domain-4-identity-and-access-management/index.md`
+- `content/domain-5-data-protection/index.md`
+- `content/domain-6-security-foundations-and-governance/index.md`
 
 ## URL Behavior
 
 Quartz emits non-folder notes as `.html` files, and GitHub Pages serves them without the extension.
 
-For `content/aws-ecr-security.md`, the public URL is:
+For `content/domain-3-infrastructure-security/aws-ecr-security.md`, the public URL is:
 
 ```text
-https://sec.metoniclabs.com/aws-ecr-security
+https://sec.metoniclabs.com/domain-3-infrastructure-security/aws-ecr-security
 ```
 
 Do not add a trailing slash for non-folder notes. For example, this may 404:
 
 ```text
-https://sec.metoniclabs.com/aws-ecr-security/
+https://sec.metoniclabs.com/domain-3-infrastructure-security/aws-ecr-security/
 ```
 
 ## Local Commands
@@ -155,6 +157,14 @@ curl --resolve sec.metoniclabs.com:443:185.199.108.153 \
 
 - The site intentionally disables the Quartz `recent-notes` sidebar component because it made the left sidebar too loud and pushed Explorer down.
 - Keep the left sidebar simple: title, search/tools, Explorer.
+- Explorer primary sections are folder notes under `content/domain-*`.
+- Keep these six primary domain folders at the top level:
+  - `domain-1-detection`
+  - `domain-2-incident-response`
+  - `domain-3-infrastructure-security`
+  - `domain-4-identity-and-access-management`
+  - `domain-5-data-protection`
+  - `domain-6-security-foundations-and-governance`
 - Prefer durable reference pages over tiny isolated notes when covering certification domains or enterprise patterns.
 - Keep headings direct and technical.
 

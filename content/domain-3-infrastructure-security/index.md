@@ -1,5 +1,5 @@
 ---
-title: Infrastructure Security
+title: "Content Domain 3: Infrastructure Security"
 description: Notes on hardening cloud infrastructure and making secure defaults easy.
 tags:
   - infrastructure
@@ -11,7 +11,7 @@ Infrastructure security works best when the paved road is genuinely easier to us
 
 ## Areas To Cover
 
-- [[aws-ecr-security]]
+- [[domain-3-infrastructure-security/aws-ecr-security|AWS Security - ECR Secure Baseline]]
 - Network exposure and private connectivity
 - Encryption defaults and key management
 - Logging baselines and retention

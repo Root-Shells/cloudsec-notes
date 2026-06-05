@@ -1,5 +1,5 @@
 ---
-title: "Domain 1 - Detection"
+title: "Content Domain 1: Detection"
 description: A comprehensive AWS-focused reference for designing monitoring, alerting, logging, and troubleshooting patterns across AWS accounts and organizations.
 tags:
   - aws
