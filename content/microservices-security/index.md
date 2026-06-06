@@ -12,6 +12,7 @@ Microservices security is about making distributed systems understandable and en
 
 ## Areas To Cover
 
+- [[microservices-security/how-security-works-in-a-monolithic-application|How Security Works in a Monolithic Application]]
 - Service-to-service authentication and authorization
 - API gateway and ingress security patterns
 - Service mesh security, mTLS, and policy enforcement
