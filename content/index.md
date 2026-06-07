@@ -16,6 +16,7 @@ Welcome. This site is a working notebook for cloud security engineering: the pat
 - [[domain-4-identity-and-access-management/index|Domain 4: Identity and Access Management]]
 - [[domain-5-data-protection/index|Domain 5: Data Protection]]
 - [[domain-6-security-foundations-and-governance/index|Domain 6: Security Foundations and Governance]]
+- [[aws-networking/index|AWS Networking]]
 - [[microservices-security/index|Microservices Security]]
 
 ## Writing Queue
