@@ -7,6 +7,8 @@ tags:
   - nat-instance
   - ec2
   - egress
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/nat-instances
 ---
 
 A NAT instance is an EC2 instance configured to perform network address translation. Before NAT gateways existed, this was the common pattern for private subnet internet egress.

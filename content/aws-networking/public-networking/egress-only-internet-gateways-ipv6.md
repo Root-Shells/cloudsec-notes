@@ -7,6 +7,8 @@ tags:
   - ipv6
   - egress-only-internet-gateway
   - egress
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/egress-only-internet-gateways-ipv6
 ---
 
 An egress-only internet gateway provides outbound-only native IPv6 internet access for VPC resources.

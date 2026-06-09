@@ -17,15 +17,14 @@ Amazon Virtual Private Cloud (Amazon VPC) lets you create isolated private netwo
 3. [[aws-networking/virtual-private-clouds/vpc-ip-planning-and-cidr-design|VPC IP Planning and CIDR Design]]
 4. [[aws-networking/virtual-private-clouds/vpc-subnets-and-availability-zones|VPC Subnets and Availability Zones]]
 5. [[aws-networking/virtual-private-clouds/vpc-router-and-route-tables|VPC Router and Route Tables]]
-6. [[aws-networking/virtual-private-clouds/public-networking/index|VPC Public Networking Deep Dive]]
-7. [[aws-networking/virtual-private-clouds/dhcp-dns-and-option-sets|DHCP, DNS, and Option Sets]]
-8. [[aws-networking/virtual-private-clouds/ipv6-in-aws-vpcs|IPv6 in AWS VPCs]]
-9. [[aws-networking/virtual-private-clouds/stateful-vs-stateless-firewalls|Stateful vs Stateless Firewalls]]
-10. [[aws-networking/virtual-private-clouds/security-groups|Security Groups]]
-11. [[aws-networking/virtual-private-clouds/network-acls|Network ACLs]]
-12. [[aws-networking/virtual-private-clouds/vpc-flow-logs|VPC Flow Logs]]
-13. [[aws-networking/virtual-private-clouds/vpc-traffic-mirroring|VPC Traffic Mirroring]]
-14. [[aws-networking/virtual-private-clouds/secure-multi-tier-vpc-reference-architecture|Secure Multi-Tier VPC Reference Architecture]]
+6. [[aws-networking/virtual-private-clouds/dhcp-dns-and-option-sets|DHCP, DNS, and Option Sets]]
+7. [[aws-networking/virtual-private-clouds/ipv6-in-aws-vpcs|IPv6 in AWS VPCs]]
+8. [[aws-networking/virtual-private-clouds/stateful-vs-stateless-firewalls|Stateful vs Stateless Firewalls]]
+9. [[aws-networking/virtual-private-clouds/security-groups|Security Groups]]
+10. [[aws-networking/virtual-private-clouds/network-acls|Network ACLs]]
+11. [[aws-networking/virtual-private-clouds/vpc-flow-logs|VPC Flow Logs]]
+12. [[aws-networking/virtual-private-clouds/vpc-traffic-mirroring|VPC Traffic Mirroring]]
+13. [[aws-networking/virtual-private-clouds/secure-multi-tier-vpc-reference-architecture|Secure Multi-Tier VPC Reference Architecture]]
 
 ## Core Model
 

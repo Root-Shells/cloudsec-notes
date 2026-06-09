@@ -7,6 +7,9 @@ tags:
   - networking
   - public-networking
   - cloud-security
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/index
+  - aws-networking/virtual-private-clouds/public-networking
 ---
 
 Public networking in a VPC is about controlled reachability between private AWS networks, AWS public service endpoints, and the public internet.
@@ -15,14 +18,14 @@ The key distinction is that public reachability is not a single switch. It is th
 
 ## Reading Order
 
-1. [[aws-networking/virtual-private-clouds/public-networking/internet-gateways-ipv4-and-ipv6|Internet Gateways: IPv4 and IPv6]]
-2. [[aws-networking/virtual-private-clouds/public-networking/public-subnets-and-route-tables|Public Subnets and Route Tables]]
-3. [[aws-networking/virtual-private-clouds/public-networking/nat-gateways|NAT Gateways]]
-4. [[aws-networking/virtual-private-clouds/public-networking/nat-instances|NAT Instances]]
-5. [[aws-networking/virtual-private-clouds/public-networking/egress-only-internet-gateways-ipv6|Egress-Only Internet Gateways for IPv6]]
-6. [[aws-networking/virtual-private-clouds/public-networking/bastion-hosts-and-jumpboxes|Bastion Hosts and Jumpboxes]]
-7. [[aws-networking/virtual-private-clouds/public-networking/bring-your-own-ip|Bring Your Own IP]]
-8. [[aws-networking/virtual-private-clouds/public-networking/public-networking-reference-architecture|Public Networking Reference Architecture]]
+1. [[aws-networking/public-networking/internet-gateways-ipv4-and-ipv6|Internet Gateways: IPv4 and IPv6]]
+2. [[aws-networking/public-networking/public-subnets-and-route-tables|Public Subnets and Route Tables]]
+3. [[aws-networking/public-networking/nat-gateways|NAT Gateways]]
+4. [[aws-networking/public-networking/nat-instances|NAT Instances]]
+5. [[aws-networking/public-networking/egress-only-internet-gateways-ipv6|Egress-Only Internet Gateways for IPv6]]
+6. [[aws-networking/public-networking/bastion-hosts-and-jumpboxes|Bastion Hosts and Jumpboxes]]
+7. [[aws-networking/public-networking/bring-your-own-ip|Bring Your Own IP]]
+8. [[aws-networking/public-networking/public-networking-reference-architecture|Public Networking Reference Architecture]]
 
 ## Core Pattern
 

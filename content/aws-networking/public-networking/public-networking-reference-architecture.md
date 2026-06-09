@@ -7,6 +7,8 @@ tags:
   - public-networking
   - reference-architecture
   - cloud-security
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/public-networking-reference-architecture
 ---
 
 This reference architecture ties the public networking pieces together: internet gateway, public subnets, NAT gateways, IPv6 egress-only internet gateways, administrative access, BYOIP, and telemetry.

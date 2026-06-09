@@ -7,6 +7,8 @@ tags:
   - nat-gateway
   - private-subnet
   - egress
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/nat-gateways
 ---
 
 A NAT gateway is the recommended AWS-managed service for giving private subnet resources outbound access without allowing unsolicited inbound connections from the destination network.

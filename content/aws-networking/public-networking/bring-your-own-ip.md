@@ -7,6 +7,8 @@ tags:
   - byoip
   - bgp
   - public-ip
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/bring-your-own-ip
 ---
 
 Bring Your Own IP (BYOIP) lets an organization bring public IPv4 or IPv6 address ranges it controls into AWS and use them with supported AWS services.

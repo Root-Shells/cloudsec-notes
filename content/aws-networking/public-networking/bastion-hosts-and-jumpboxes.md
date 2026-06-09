@@ -8,6 +8,8 @@ tags:
   - jumpbox
   - administration
   - cloud-security
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/bastion-hosts-and-jumpboxes
 ---
 
 A bastion host is a hardened server placed at the edge between a public network and a private network to provide controlled administrative ingress.

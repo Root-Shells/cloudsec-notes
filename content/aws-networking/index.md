@@ -11,6 +11,7 @@ AWS networking is the foundation for secure workload placement, private connecti
 
 ## Topics
 
+- [[aws-networking/public-networking/index|VPC Public Networking Deep Dive]]
 - [[aws-networking/virtual-private-clouds/index|Virtual Private Clouds (VPCs)]]
 
 ## Reference Mindset

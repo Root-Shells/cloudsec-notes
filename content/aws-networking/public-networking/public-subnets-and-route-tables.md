@@ -7,6 +7,8 @@ tags:
   - public-subnet
   - route-tables
   - internet-gateway
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/public-subnets-and-route-tables
 ---
 
 A public subnet is a subnet with route table behavior that sends public internet or AWS public zone traffic to an internet gateway.

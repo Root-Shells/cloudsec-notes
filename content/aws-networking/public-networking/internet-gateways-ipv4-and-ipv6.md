@@ -7,6 +7,8 @@ tags:
   - internet-gateway
   - ipv4
   - ipv6
+aliases:
+  - aws-networking/virtual-private-clouds/public-networking/internet-gateways-ipv4-and-ipv6
 ---
 
 An internet gateway is a managed VPC gateway object that lets resources in public subnets communicate with the AWS public zone and the public internet.
